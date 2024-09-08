@@ -10,4 +10,4 @@ def multiply(x,y):
 	return x*y
 
 def square(x):
-	pass
+	return x**2
